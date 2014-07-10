@@ -1,0 +1,28 @@
+((("pathToTable" .
+   [0 0 0 0 0 0 0 0 0 0 2])
+  ("movementsRequestedByDriver" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("ChangeStatusOf" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("movementsRequestedByTruckDriver" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("DslComponent" .
+   [1 0 0 0 0 0 0 0 0 0 0 1])
+  ("zoneflow" .
+   [0 0 0 0 0 0 0 2])
+  ("atomizesoftware" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("TruckRepository" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("TruckRepositoryComponent" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("MovementTypeStatusChangeFunction" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("MovementStatusTransition" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("MovementTypeCodeAndStatusCode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("dataSource" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("jsonStream" .
+   [0 0 0 0 0 0 0 0 0 1])))
